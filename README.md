@@ -1,4 +1,4 @@
-#Fitness
+#Fitness Progam
 
 The included documents outline, to the best of my ability, an attempt to create a program that will accomplish the following goals:
 - **Work**: The program must actually get results. I personally, do not have the time to go down paths that will not produce positive health benefits.
