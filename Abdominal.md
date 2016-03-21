@@ -32,4 +32,4 @@ Targets: Lower abs, glutes
 Still have fuel left in the tank? Rubin challenges True Beginners to tap into their Spidey sense. Start in a push-up position, hands on the ground directly underneath your shoulders, legs extended backwards with your toes on the ground, so your body is in a straight line. Lift your right leg and bring your knee towards the outside of your right elbow (a). Return to plank position (b). Repeat the movement with the other leg. Do five reps with each leg.
 Modification: If this is too challenging, simply hold a plank on your elbows or hands for 30 seconds at a time, for three rounds. (If you have a wrist issue, Rubin recommends doing this movement on your elbows.)
 
-[[Focus.md]
+[[Focus.md]]
